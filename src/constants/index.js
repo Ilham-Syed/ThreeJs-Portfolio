@@ -44,19 +44,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Web Development",
       icon: web,
     },
     {
-      title: "Flutter Developer",
+      title: "Android Development",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "UI UX Design",
       icon: backend,
     },
     {
-      title: "Machine Learing Enthusiast",
+      title: "Machine Learning",
       icon: creator,
     },
   ];
@@ -82,10 +82,10 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -110,10 +110,10 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    // {
+    //   name: "docker",
+    //   icon: docker,
+    // },
   ];
   
   const experiences = [
